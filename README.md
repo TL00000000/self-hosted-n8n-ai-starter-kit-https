@@ -61,3 +61,12 @@ openssl req -x509 -nodes -days 365 -newkey rsa:2048 \
     -keyout certs/n8n.key -out certs/n8n.crt \
     -subj "/C=DE/ST=Hessen/L=Frankfurt/O=Max Mustermann/OU=IT/CN=n8n.local"
 
+
+
+
+
+
+
+
+## 📌 Wichtig nach erstellung des Zertifikats muss der Name und pfad angepasst bzw. überprüft werden. 
+
