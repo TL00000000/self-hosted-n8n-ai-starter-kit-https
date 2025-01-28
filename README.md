@@ -1,4 +1,4 @@
-# testprojekt von M.Kamrau Testpilot MAVERICK self-hosted-n8n-ai-starter-kit-https
+# testprojekt von M.Ka Testpilot MAVERICK self-hosted-n8n-ai-starter-kit-https
 
 n8n-https-docker
 │── certs/                 # Ordner für Zertifikate
